@@ -1,17 +1,17 @@
-site_name: Your Site Name
+site_name: Josh Slade
 site_description: Your site description
 site_url: https://yourdomain.com
 
 nav:
   - Home:
     - About: index.md
-  - Case Studies:
-    - Overview: portfolio/index.md
-    - Projects:
-      - portfolio/projects/project-1.md
-      - portfolio/projects/project-2.md
-  - Blog:
-    - blog/index.md 
+  # - Case Studies:
+  #   - Overview: portfolio/index.md
+  #   - Projects:
+  #     - portfolio/projects/project-1.md
+  #     - portfolio/projects/project-2.md
+  # - Blog:
+  #   - blog/index.md 
 
 theme:
   name: material

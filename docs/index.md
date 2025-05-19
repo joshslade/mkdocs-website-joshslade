@@ -1,9 +1,9 @@
 ---
 title: About Me
-description: Explore AI, data science, and entrepreneurship with Dave Ebbelaar. Learn about Datalumina, AI tutorials, freelancing, and innovative AI solutions for businesses.
-keywords: Dave Ebbelaar, AI entrepreneur, Datalumina, AI tutorials, Data Freelancer, GenAI Launchpad
-author: Dave Ebbelaar
-canonical_url: https://www.daveebbelaar.com/
+description: Explore AI, data science, and entrepreneurship with Josh Slade. Learn about Supply Chain, Optimisationm, AI tutorials, freelancing, and innovative AI solutions for businesses.
+keywords: Josh Slade, AI entrepreneur, AI tutorials, Machine Learning, Supply Chain, Optimisation, Modelling
+author: Josh Slade
+canonical_url: https://www.joshslade.com/
 ---
 
 <script type="application/ld+json">
@@ -33,7 +33,7 @@ canonical_url: https://www.daveebbelaar.com/
 
 <div class="text-intro-grid" markdown>
 
-# Turn AI complexity into your competitive advantage
+# Driving Operational Excellence through data
 
 ### I have 5+ years experience doing just that
 
@@ -47,13 +47,12 @@ canonical_url: https://www.daveebbelaar.com/
 
 - Need someone who understands both technical and business perspectives?
 
-[Book Free Intro Call :material-arrow-top-right:](https://www.calendly.com){ .md-button .md-button--primary }
-
+[Book Free Intro Call :material-arrow-top-right:](https://www.calendly.com/josh-slade-data-solutions/introduction-call){ .md-button .md-button--primary }
 </div>
 
 <div class="profile-image-grid" markdown>
 
-![Dave Ebbelaar, AI Entrepreneur and Educator](assets/@daveebbelaar.jpg){ .profile-image alt="Portrait of Dave Ebbelaar, AI entrepreneur and educator" }
+![Josh Slade](assets/@joshslade.jpeg){ .profile-image alt="Portrait of Josh Slade, Freelance Data Scientist" }
 
 </div>
 
@@ -61,9 +60,10 @@ canonical_url: https://www.daveebbelaar.com/
 
 ## About me
 
-Hi! I'm Dave, an entrepreneur and educator from the Netherlands. I work with technical professionals facing the overwhelming pace of AI innovation and businesses struggling to translate AI hype into competitive advantage. Whether you're a developer watching your skills becoming obsolete or a company unsure how to implement AI effectively—the challenge is the same: how to effectively use this technology before your competitors do.
+Hi! I'm Josh, a freelance Data Scientist from the UK. 
 
-My artificial intelligence journey spans over a decade, with bachelor's and master's degrees in the field and experience building custom data and AI systems across utilities, government, and e-commerce sectors. My tech stack includes Python, PostgreSQL, ML, FastAPI, OpenAI, Claude, Azure, vector databases, RAG, and LLM integration for enterprise applications.
+I specialize in Supply Chain Optimization transforming operational challenges into competitive advantages. I leverage a decade of Fortune 50 experience with formulated products and an engineering problem-solving approach to uncover hidden opportunities in your data. My experience enables me to meet you at any stage of data maturity—from initial organization to advanced analytics—while simultaneously delivering actionable insights. Working with me means gaining a partner who systematically evolves your data capabilities while driving immediate results: reduced costs, streamlined operations, and boosted profitability.
+
 
 ## Why work with me?
 
@@ -75,19 +75,14 @@ Here's what sets me apart and how I can help drive value for your business:
 
     ---
 
-    As the founder of Datalumina, I bring entrepreneurial insight to every project. I understand both the technical and business sides of AI implementation, ensuring solutions that deliver real ROI and align with your business goals.
+    With a decade of experience working within a Fortune 50 company I have a broad understanding of business operations from product developement, through technical deployment, optimising a supply chain and product portfolios and operational procurement. I have utilised my skillset as a Data Analyst and Scientist in each of these business domains.
 
--   :material-youtube:{ .lg .middle } Educator & Communicator
-
-    ---
-
-    My experience as a content creator and educator means I can break down complex technical concepts into clear, actionable insights. You'll always understand the 'why' behind technical decisions and get clear progress updates.
 
 -   :material-school:{ .lg .middle } Industry Expert
 
     ---
 
-    With over a decade in AI and data science, including work across utilities, government, and e-commerce sectors, I bring battle-tested expertise to your projects. My solutions are built on real-world experience, not just theory.
+    With over 5 years in AI and data science, I bring expertise to your projects. My solutions are built on real-world experience, not just theory.
 
 -   :material-rocket:{ .lg .middle } Fast Implementation
 
@@ -101,37 +96,14 @@ Here's what sets me apart and how I can help drive value for your business:
 
 <div class="grid cards testimonials" markdown>
 
--   :material-format-quote-open:{ .lg .middle } Adrian Dragomir
+-   :material-format-quote-open:{ .lg .middle } Joe Bloggs
     
-    Founder at Sferal
+    Founder at ACME core
 
     ---
 
-    "Dave is a true professional and my collaboration with him has been flawless. **He took his time and spent 3 days with me and my team in Mamaia, Romania where he was a guest for 3 sessions of my podcast Waves of AI**. He is one of the most competent people I know that has a real understanding of how AI works and how to integrate it quickly in your company."
+    "Josh is a true professional and my collaboration with him has been flawless. **He took his time and spent 3 days with me and my team in ACME where he was a guest for 3 sessions of my podcast**. He is one of the most competent people I know that has a real understanding of how AI works and how to integrate it quickly in your company."
 
--   :material-format-quote-open:{ .lg .middle } Barbara van den Bosch
-    
-    Founder at Viverve
-
-    ---
-
-    "Together with Datalumina, we developed a tailor-made program where I, as a school leader, can now bring together vast amounts of information in one place and automate key tasks. **Beyond the tremendous quality improvement for our organization, working with Datalumina was an extremely pleasant experience**."
-
--   :material-format-quote-open:{ .lg .middle } Rene Raaphorst
-    
-    Founder at Crypto Insiders
-
-    ---
-
-    "My experience with Datalumina has been excellent. **They think along with you every step of the way, from proof of concept to a fully functional product**. I was amazed by the quality of the results and found the collaboration very enjoyable. I highly recommend Dave and Datalumina to everyone!"
-
--   :material-format-quote-open:{ .lg .middle } Kelsen
-    
-    Founder at Datavisum
-
-    ---
-
-    "I am thankful for having come across Dave and Data Freelancer, it was one of the best investment decisions I've made in 2024. **From effective ways to create inbound marketing strategies using social media, through solution architecture design to address all kinds of business challenges**, you will extract a great deal of value from diverse perspectives."
 
 </div>
 
@@ -144,7 +116,7 @@ Here's what sets me apart and how I can help drive value for your business:
     While I can accommodate projects of any size, I find that engagements of at least 20 hours allow for meaningful impact. This gives us enough time to understand your data, implement solutions, and deliver actionable results. We can start with a small pilot project to ensure we're a good fit.
 
 ??? note "What industries do you have experience in?"
-    I've successfully delivered projects across e-commerce, manufacturing, healthcare, and financial services. While I specialize in data science fundamentals that apply across sectors, I particularly excel in projects involving customer behavior analysis, process optimization, and predictive modeling.
+    I've successfully delivered projects across formulated products, supply chain, laboratory testing systems. While I specialize in data science fundamentals that apply across sectors, I particularly excel in projects involving process modelling, optimisation, and predictive modeling.
 
 ??? note "How do you handle data security and confidentiality?"
     I take data security extremely seriously. I sign comprehensive NDAs before starting any project, use enterprise-grade encryption for all data transfers, and follow industry best practices for data handling. I can also work within your existing security infrastructure and policies.
@@ -164,6 +136,6 @@ Here's what sets me apart and how I can help drive value for your business:
     
     Want to see if we're a match? Let's have a chat and find out. Schedule a free 30-minute strategy session to discuss your AI challenges and explore how we can work together.
 
-    [Book Free Intro Call :material-arrow-top-right:](https://calendly.com){ .md-button .md-button--primary }
+    [Book Free Intro Call :material-arrow-top-right:](https://calendly.comjosh-slade-data-solutions/introduction-call){ .md-button .md-button--primary }
 
 </div>
