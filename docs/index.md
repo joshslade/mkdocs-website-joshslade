@@ -6,7 +6,7 @@ author: Josh Slade
 canonical_url: https://www.joshslade.com/
 ---
 
-<script type="application/ld+json">
+<!-- <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
@@ -27,7 +27,7 @@ canonical_url: https://www.joshslade.com/
     "url": "https://www.datalumina.com/"
   },
 }
-</script>
+</script> -->
 
 <div class="hero-section grid-container" markdown>
 
@@ -37,7 +37,7 @@ canonical_url: https://www.joshslade.com/
 
 ### I have 5+ years experience doing just that
 
-- Are you struggling to keep up with the rapid pace of AI innovation?
+- Do you have masses of data and not sure how to extract the best value?
 
 - Do you need help translating AI hype into real business results?
 
